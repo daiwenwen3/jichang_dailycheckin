@@ -5,6 +5,8 @@
   该脚本可选择采用<a href='https://sct.ftqq.com/r/5126'>server酱</a>和<a href = 'https://www.pushplus.plus/'>pushplus</a>的推送方式
   <br/>想使用哪一种推送方式就将密钥填入下方参数，并将另一参数赋值为 <b>1</b>
   <br/>如若不想使用推送，请假下面的SCKEY和TOKEN参数全部赋值为<b>1</b>
+
+  修改了server酱为Server酱3，改了推送链接，详细用法可以参照https://sc3.ft07.com/
   
 
 # 部署过程

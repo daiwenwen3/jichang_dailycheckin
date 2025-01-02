@@ -15,7 +15,7 @@ SCKEY = os.environ.get('SCKEY')
 Token = os.environ.get('TOKEN')
 def push(content):
     if SCKEY != '1':
-        url = "https://sctapi.ftqq.com/{}.send?title={}&desp={}".format(SCKEY, 'ikuuu签到', content)
+        url = "https://1614.push.ft07.com/send/{}.send?title={}&desp={}".format(SCKEY, 'ikuuu签到', content)
         requests.post(url)
         print('推送完成')
     elif Token != '1':
